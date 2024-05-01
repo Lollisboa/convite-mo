@@ -1,0 +1,34 @@
+body {
+    background-color: #ffb6c1;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #ff7f7f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+#message {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #ff7f7f;
+}
+
+.hidden {
+    display: none;
+}
